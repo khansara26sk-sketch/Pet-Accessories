@@ -2,9 +2,9 @@
 // AFFILIATE LINKS (update here only)
 // ================================
 const affiliateLinks = {
-  dogToy: "https://www.amazon.com/dp/NEW-AFFILIATE-ID-1?tag=yourtag-20",
-  petBed: "https://www.amazon.com/dp/NEW-AFFILIATE-ID-2?tag=yourtag-20",
-  groomingKit: "https://www.amazon.com/dp/NEW-AFFILIATE-ID-3?tag=yourtag-20"
+  dogToy: "https://amzn.to/46gfgAK",       // Dog Chew Toy
+  petBed: "https://amzn.to/3MalWcL",  // Replace with actual Pet Bed link
+  groomingKit: "https://amzn.to/4bsM1ya" // Replace with actual Grooming Kit link
 };
 
 // ================================
