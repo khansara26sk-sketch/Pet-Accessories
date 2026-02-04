@@ -83,17 +83,7 @@ const products = [
     ],
     link: affiliateLinks.petBowl
   },
-  {
-    id: "PetCarrierBag",
-    name: "Pet Carrier Bag",
-    image: "IMAGES/611ErB-dS0L._SX522_.jpg",
-    benefits: [
-      "Comfortable for travel",
-      "Breathable design",
-      "Airline friendly"
-    ],
-    link: affiliateLinks.petCarrier
-  },
+ 
   {
     id: "PuppyTrainingPads",
     name: "Puppy Training Pads",
