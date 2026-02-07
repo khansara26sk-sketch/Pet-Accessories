@@ -10,7 +10,9 @@ const affiliateLinks = {
   catScratcher: "https://amzn.to/45NHIdf",
   petBowl: "https://amzn.to/3ZhMH20",
   petCarrier: "https://amzn.to/4rybZ89",
-  trainingPads: "https://amzn.to/4ql0yjl"
+  trainingPads: "https://amzn.to/4ql0yjl",
+  dogClothes: "https://amzn.to/4tnSQaB",
+  glove: "https://amzn.to/4qhH7Yp"
 };
 
 // ================================
@@ -83,7 +85,7 @@ const products = [
     ],
     link: affiliateLinks.petBowl
   },
- 
+
   {
     id: "PuppyTrainingPads",
     name: "Puppy Training Pads",
@@ -94,6 +96,28 @@ const products = [
       "Ideal for house training"
     ],
     link: affiliateLinks.trainingPads
+  },
+  {
+    id: "Dog Hoodie",
+    name: "Dog Hoodie",
+    image: "IMAGES/61xHYXu96zL._SL1500_.jpg",
+    benefits: [
+      "Soft Cotton Winter Clothes",
+      "Warm Hoodded Pet Wear",
+      "Dog Hoodie Sweatshirt"
+    ],
+    link: affiliateLinks.dogClothes
+  },
+  {
+    id: "Hair Remover",
+    name: "Pet Hair Removal Gloves",
+    image: "IMAGES/71uUtvrPyIL._SL1024_.jpg",
+    benefits: [
+      "Reusable",
+      "Gentle massage for dogs and cats",
+      "Cleaning Glove"
+    ],
+    link: affiliateLinks.glove
   }
 ];
 
